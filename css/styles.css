@@ -1,0 +1,116 @@
+.titlemessage {
+   background-color: #f6da63;
+   height: 400px;
+   margin: 0;
+}
+
+body {
+  margin: 0;
+}
+
+
+h1{
+  margin-top: 0;
+  font-family: sans-serif;
+  color: #ffff;
+  font-size: 4rem;
+  padding-top: 140px;
+  text-align: center;
+}
+
+.Introh2 {
+  position: absolute;
+  font-family:sans-serif;
+  right: 20%;
+  width: 520px;
+  margin-top: 0;
+  padding-top: 190px;
+}
+
+.Introduction {
+  margin-top: 0;
+  background-color: #ffaa64;
+  height: 530px;
+}
+
+.Introduction p {
+  position: absolute;
+  font-size: 1.2rem;
+  width: 520px;
+  right: 20%;
+  padding-top: 210px;
+}
+
+.personalinterests {
+width: 400px;
+margin-top: 100px;
+position: absolute;
+left: 3%
+}
+
+.personalh2 {
+  font-family: sans-serif;
+  text-align: center;
+  color: #c2f0fc;
+}
+
+.scienceolympiad {
+  width: 400px;
+  position: absolute;
+  left: 39%;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+.vacationtrips {
+  width: 400px;
+  position: absolute;
+  left: 71%;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+.contact {
+  font-family: sans-serif;
+  background-color: #eb4559;
+  height: 350px;
+  margin-top: 400px;
+}
+
+.color1 {
+  background-color:#ffd31d;
+}
+
+.color2 {
+  background-color:#000000;
+  color:#ffff;
+}
+
+.color3 {
+  background-color:#ff9a00;
+}
+
+.yeet {
+  position: absolute;
+  left: 15%;
+  padding-top: 100px;
+}
+
+.hype {
+  padding-top: 100px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 1.1rem;
+  padding-right: 300px;
+}
+
+.skype {
+  text-align: center;
+  font-size: 2rem;
+  color: #edf4f2;
+  font-family: monospace;
+}
+
+.insta {
+  color: #08d9d6;
+}
