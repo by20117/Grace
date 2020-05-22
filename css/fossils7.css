@@ -1,0 +1,30 @@
+.fosintro {
+  background-color: #fa4659;
+  height:700px;
+  margin-top: 0;
+}
+
+.Introh1 {
+  margin-top: 0;
+  text-align: center;
+  padding-top: 190px;
+  color: white;
+  font-size: 2.6rem;
+}
+
+.old {
+  width: 700px;
+  position:absolute;
+  right: 600px;
+  padding-top: 100px;
+}
+
+.rules {
+  width: 800px;
+  padding-bottom: 100px;
+}
+
+.introrules {
+  text-align: center;
+  padding-top: 100px;
+}
