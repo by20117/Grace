@@ -86,12 +86,13 @@ body {
   position: absolute;
   left: 200px;
   padding-bottom: 200px;
+  padding-top: 100px;
 }
 
 .eighty {
   background-color:#ff6464;
   padding-top: 20px;
-  margin-top: 400px;
+  margin-top: 500px;
   position: absolute;
   width: 50%;
   right: 0;
@@ -103,6 +104,7 @@ body {
   position: absolute;
   right: 200px;
   padding-bottom: 200px;
+  padding-top: 100px;
 }
 
 .stuf {
@@ -120,4 +122,67 @@ body {
   margin-bottom: 0;
   position: relative;
   left: 400px;
+}
+
+.firstone {
+  position:absolute;
+  width: 50px;
+  height: auto;
+  padding-top: 50px;
+}
+
+.secondone {
+  position:absolute;
+  width: 50px;
+  height: auto;
+  padding-top: 50px;
+}
+
+.thirdone {
+  position:absolute;
+  width: 50px;
+  height: auto;
+  padding-top: 50px;
+}
+
+.medalone {
+  position:absolute;
+  left: 300px;
+  padding-top: 400px;
+}
+
+.schoolone {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.medaltwo {
+  position:absolute;
+  right: 350px;
+}
+
+.firsttwo {
+  position:absolute;
+  width: 50px;
+  height: auto;
+  padding-top: 50px;
+}
+
+.secondtwo {
+  position:absolute;
+  width: 50px;
+  height: auto;
+  padding-top: 50px;
+}
+
+.thirdtwo {
+  position:absolute;
+  width: 50px;
+  height: auto;
+  padding-top: 50px;
+}
+
+.schooltwo {
+  padding-top: 50px;
+  padding-left: 50px;
 }
