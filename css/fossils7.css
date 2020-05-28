@@ -22,9 +22,17 @@
 .rules {
   width: 800px;
   padding-bottom: 100px;
+  padding-left: 200px;
+  position: absolute;
 }
 
 .introrules {
   text-align: center;
+  padding-top: 100px;
+}
+
+.swag {
+  position: absolute;
+  right: 400px;
   padding-top: 100px;
 }
