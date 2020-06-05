@@ -23,11 +23,32 @@
 
 .topics {
   width: 1500px;
-  position: absolute;
-  right: 12%;
+  position: relative;
+  left: 13%;
   padding-top: 200px;
+  font-size: 1.1rem;
 }
 
 h2 {
   text-align: center;
+}
+
+.science {
+  padding: 20px 35px 20px;
+  font-size:1.2rem;
+  border: 1.3px solid black;
+  text-align: center;
+
+}
+
+.tablel {
+  position:absolute;
+  right: 8%;
+  margin-top: 200px;
+  border-collapse: collapse;
+}
+
+th {
+  width: 400px;
+  background-color: yellow;
 }
